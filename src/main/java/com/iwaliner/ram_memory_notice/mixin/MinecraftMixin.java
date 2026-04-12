@@ -13,6 +13,8 @@ import net.minecraft.network.chat.ComponentUtils;
 import net.minecraft.server.packs.resources.ReloadInstance;
 import net.minecraft.world.level.block.IronBarsBlock;
 import net.minecraft.world.level.block.state.BlockState;
+import net.minecraftforge.api.distmarker.Dist;
+import net.minecraftforge.api.distmarker.OnlyIn;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.Inject;
@@ -20,8 +22,9 @@ import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
 import org.spongepowered.asm.mixin.injection.callback.CallbackInfoReturnable;
 
 @Mixin(Minecraft.class)
+@OnlyIn(Dist.CLIENT)
 
-public abstract class MinecraftMixin {
+public class MinecraftMixin {
     @Inject(method = "setInitialScreen",at = @At("HEAD"), cancellable = true)
     private void setInitialScreenInject(RealmsClient realmsClient, ReloadInstance reloadInstance, GameConfig.QuickPlayData quickPlayData, CallbackInfo ci){
         long maxMemory   = Runtime.getRuntime().maxMemory() / 1024 / 1024;

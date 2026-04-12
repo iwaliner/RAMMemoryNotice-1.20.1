@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: rammemorynotice
+Specification-Vendor: iwaliner
+Specification-Version: 1
+Implementation-Title: RAMMemoryNotice-1.20.1
+Implementation-Version: 1.0.0
+Implementation-Vendor: iwaliner
+Implementation-Timestamp: 2026-04-13T00:13:29+0900
+MixinConfigs: ram_memory_notice.mixins.json
+
