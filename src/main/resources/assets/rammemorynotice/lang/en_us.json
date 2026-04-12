@@ -1,0 +1,10 @@
+{
+   "accessibility.rammemorynotice.not_enough_memory.narrator": "To enjoy this modded Mine craft, allocate more RAM to Mine craft.",
+   "info.rammemorynotice.not_enough_memory_title1": "Allocate more RAM to Minecraft!",
+   "info.rammemorynotice.not_enough_memory_title2": "\n\nTo enjoy this modded Minecraft, you should allocate more RAM to Minecraft.\nIf you do not allocate enough RAM to Minecraft, it will be lagging and may cause crashes.",
+   "info.rammemorynotice.not_enough_memory_howto1": "If you are using Minecraft Launcher, find the installation from [Installations] and press [Edit] in [...] to open the [Edit installation]. In this menu, extend [MORE OPTIONS] and edit [JVM ARGUMENTS]. Replace [2] in [-Xmx2G] into a larger number to allocate more RAM to Minecraft.",
+   "info.rammemorynotice.not_enough_memory_howto2": "If you are using Curse Forge Launcher, open [Settings] by clicking the gear icon at the lower left. Then, select [Minecraft] in [Game Specific]. Scroll to the bottom and manipulate the orange bar of [Allocated Memory] to change the allocated RAM to Minecraft.",
+   "info.rammemorynotice.show_howto": "How to allocate RAM?",
+   "info.rammemorynotice.close_howto": "Close this descriptions",
+   "info.rammemorynotice.close_screen": "Understood"
+}

@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "com/iwaliner/ram_memory_notice/mixin/MinecraftMixin": {
+      "setInitialScreen": "Lnet/minecraft/client/Minecraft;m_278684_(Lcom/mojang/realmsclient/client/RealmsClient;Lnet/minecraft/server/packs/resources/ReloadInstance;Lnet/minecraft/client/main/GameConfig$QuickPlayData;)V"
+    }
+  },
+  "data": {
+    "searge": {
+      "com/iwaliner/ram_memory_notice/mixin/MinecraftMixin": {
+        "setInitialScreen": "Lnet/minecraft/client/Minecraft;m_278684_(Lcom/mojang/realmsclient/client/RealmsClient;Lnet/minecraft/server/packs/resources/ReloadInstance;Lnet/minecraft/client/main/GameConfig$QuickPlayData;)V"
+      }
+    }
+  }
+}
