@@ -1,0 +1,10 @@
+{
+   "accessibility.rammemorynotice.not_enough_memory.narrator": "模组环境下的Minecraft需要分配更多内存。",
+   "info.rammemorynotice.not_enough_memory_title1": "Minecraft 需要更多内存！",
+   "info.rammemorynotice.not_enough_memory_title2": "\n\n建议为模组环境下的 Minecraft 分配更多内存。\n分配给 Minecraft 的内存过少可能会导致游戏运行卡顿甚至崩溃。",
+   "info.rammemorynotice.not_enough_memory_howto1": "HMCL启动器：首页->左侧[实例管理]->[游戏设置]-> 勾选[启用实例特定游戏设置（不影响其他游戏实例）]-> [游戏内存]->调整滑块或输入数字以分配更多内存。",
+   "info.rammemorynotice.not_enough_memory_howto2": "PCL2启动器：首页->上方[设置]->[启动]-> 向下滚动至[内存分配]->勾选[自定义]->调整滑块以分配更多内存。",
+   "info.rammemorynotice.show_howto": "如何分配内存？",
+   "info.rammemorynotice.close_howto": "关闭指引",
+   "info.rammemorynotice.close_screen": "知道了"
+}

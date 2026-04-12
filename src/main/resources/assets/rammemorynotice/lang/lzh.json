@@ -1,0 +1,10 @@
+{
+   "accessibility.rammemorynotice.not_enough_memory.narrator": "携模組戯「礦藝」，需增其内存之配。",
+   "info.rammemorynotice.not_enough_memory_title1": "「礦藝」内存之配告急！",
+   "info.rammemorynotice.not_enough_memory_title2": "\n\n模組借内存丰「礦藝」，當應增配内存為宜。\n若内存過寡，則游戲滯澀乃至崩潰；巧婦難爲無米炊。",
+   "info.rammemorynotice.not_enough_memory_howto1": "HMCL啓動器：首頁->左[实例管理]->[游戏设置]-> 擇[启用实例特定游戏设置（不影响其他游戏实例）]-> [游戏内存]->以滑塊或數定内存。",
+   "info.rammemorynotice.not_enough_memory_howto2": "PCL2啓動器：首頁->上[设置]->[启动]-> 下[内存分配]->擇[自定义]->以滑塊或數定内存。",
+   "info.rammemorynotice.show_howto": "何以增？",
+   "info.rammemorynotice.close_howto": "闔",
+   "info.rammemorynotice.close_screen": "知也"
+}
