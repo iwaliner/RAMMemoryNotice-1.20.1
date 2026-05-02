@@ -1,0 +1,10 @@
+{
+   "accessibility.rammemorynotice.not_enough_memory.narrator": "模組環境的Minecraft需要更多記憶體分配量。",
+   "info.rammemorynotice.not_enough_memory_title1": "Minecraft 需要更多記憶體！",
+   "info.rammemorynotice.not_enough_memory_title2": "\n\n模組環境的 Minecraft 需要更多記憶體分配量。\n分配給 Minecraft 的記憶體過少可能會導致遊戲執行卡頓甚至崩潰。",
+   "info.rammemorynotice.not_enough_memory_howto1": "Prism Launcher啟動器：首頁->選擇想要編輯的實例->右側[編輯]-> 左下[設定]->[Java]->勾選[記憶體]->修改[最大記憶體用量]以分配更多内存。",
+   "info.rammemorynotice.not_enough_memory_howto2": "CurseForge啟動器：首頁->左下齒輪[設定]->左下[特定游戲]中的[Minecraft]-> 向下滾動到[已分配記憶體]->調整滑塊或輸入數字以分配更多内存。",
+   "info.rammemorynotice.show_howto": "如何分配記憶體？",
+   "info.rammemorynotice.close_howto": "關閉指引",
+   "info.rammemorynotice.close_screen": "知道了"
+}
