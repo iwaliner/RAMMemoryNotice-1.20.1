@@ -1,5 +1,5 @@
 {
-   "accessibility.rammemorynotice.not_enough_memory.narrator": "Allocate more RAM to play in a modded Minecraft environment.",
+   "accessibility.rammemorynotice.not_enough_memory.narrator": "Allocate more memory to play in a modded Mine craft environment.",
    "info.rammemorynotice.not_enough_memory_title1": "Allocate more RAM to Minecraft!",
    "info.rammemorynotice.not_enough_memory_title2": "\n\nWe recommend allocate more memory in this modded Minecraft environment.\nIf the memory allocated to Minecraft is too low, performance may be lagging and may cause crashes.",
    "info.rammemorynotice.not_enough_memory_howto1": "Offical Minecraft Launcher: \nGo to [Installations], find your profile, click [...], select [Edit] to open [Edit installation], click [MORE OPTIONS], and find [-Xmx2G] in [JVM ARGUMENTS]. Increase the number [2] to allocate more RAM.",
